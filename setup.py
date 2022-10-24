@@ -42,7 +42,7 @@ with open("crypto-pair-ffi/cbindgen.toml", "w", encoding="utf-8") as f_out:
 
 setup(
     name='crypto_pair',
-    version="2.2.9",
+    version="2.3.0",
     author="soulmachine",
     description="Normalize cryptocurrency trading pairs",
     long_description=long_description,
